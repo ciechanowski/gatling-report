@@ -1,0 +1,315 @@
+{
+  "simulation": "acetoys.AceToysSimulation",
+  "simulationId": "acetoyssimulation-20250213202312622",
+  "start": 1739478198313,
+  "description": "test",
+  "scenarios": ["Default Load Test"],
+  "assertions": [
+{
+  "path": "Global",
+  "target": "mean of response time",
+  "condition": "is less than",
+  "expectedValues": [3.0],
+  "result": false,
+  "message": "Global: mean of response time is less than 3.0",
+  "actualValue": [79.0]
+},
+{
+  "path": "Global",
+  "target": "percentage of successful events",
+  "condition": "is greater than",
+  "expectedValues": [99.0],
+  "result": true,
+  "message": "Global: percentage of successful events is greater than 99.0",
+  "actualValue": [100.0]
+},
+{
+  "path": "Load Home Page",
+  "target": "max of response time",
+  "condition": "is less than",
+  "expectedValues": [5.0],
+  "result": false,
+  "message": "Load Home Page: max of response time is less than 5.0",
+  "actualValue": [216.0]
+},
+{
+  "path": "Load Products List Page - Category: Kids Toys",
+  "target": "max of response time",
+  "condition": "is less than",
+  "expectedValues": [5.0],
+  "result": false,
+  "message": "Load Products List Page - Category: Kids Toys: max of response time is less than 5.0",
+  "actualValue": [112.0]
+},
+{
+  "path": "Load Our Story Page",
+  "target": "max of response time",
+  "condition": "is less than",
+  "expectedValues": [5.0],
+  "result": false,
+  "message": "Load Our Story Page: max of response time is less than 5.0",
+  "actualValue": [79.0]
+},
+{
+  "path": "Load Get In Touch",
+  "target": "max of response time",
+  "condition": "is less than",
+  "expectedValues": [5.0],
+  "result": false,
+  "message": "Load Get In Touch: max of response time is less than 5.0",
+  "actualValue": [66.0]
+},
+{
+  "path": "Load Products Details Page - Product: Assorted Building Blocks",
+  "target": "max of response time",
+  "condition": "is less than",
+  "expectedValues": [5.0],
+  "result": false,
+  "message": "Load Products Details Page - Product: Assorted Building Blocks: max of response time is less than 5.0",
+  "actualValue": [62.0]
+},
+{
+  "path": "Load Products Details Page - Product: Doctors Play Kit",
+  "target": "max of response time",
+  "condition": "is less than",
+  "expectedValues": [5.0],
+  "result": false,
+  "message": "Load Products Details Page - Product: Doctors Play Kit: max of response time is less than 5.0",
+  "actualValue": [60.0]
+},
+{
+  "path": "Add Product to Cart - Product Name: Doctors Play Kit",
+  "target": "max of response time",
+  "condition": "is less than",
+  "expectedValues": [5.0],
+  "result": false,
+  "message": "Add Product to Cart - Product Name: Doctors Play Kit: max of response time is less than 5.0",
+  "actualValue": [57.0]
+},
+{
+  "path": "Add Product to Cart - Product Name: Assorted Building Blocks",
+  "target": "max of response time",
+  "condition": "is less than",
+  "expectedValues": [5.0],
+  "result": false,
+  "message": "Add Product to Cart - Product Name: Assorted Building Blocks: max of response time is less than 5.0",
+  "actualValue": [52.0]
+},
+{
+  "path": "Load Products List Page - Category: Grown-ups Toys",
+  "target": "max of response time",
+  "condition": "is less than",
+  "expectedValues": [5.0],
+  "result": false,
+  "message": "Load Products List Page - Category: Grown-ups Toys: max of response time is less than 5.0",
+  "actualValue": [119.0]
+},
+{
+  "path": "Load Products List Page - Category: Babies Toys",
+  "target": "max of response time",
+  "condition": "is less than",
+  "expectedValues": [5.0],
+  "result": false,
+  "message": "Load Products List Page - Category: Babies Toys: max of response time is less than 5.0",
+  "actualValue": [120.0]
+},
+{
+  "path": "Load Products List Page - Category: All Products",
+  "target": "max of response time",
+  "condition": "is less than",
+  "expectedValues": [5.0],
+  "result": false,
+  "message": "Load Products List Page - Category: All Products: max of response time is less than 5.0",
+  "actualValue": [123.0]
+},
+{
+  "path": "Load Products Details Page - Product: Rubicks Cube",
+  "target": "max of response time",
+  "condition": "is less than",
+  "expectedValues": [5.0],
+  "result": false,
+  "message": "Load Products Details Page - Product: Rubicks Cube: max of response time is less than 5.0",
+  "actualValue": [55.0]
+},
+{
+  "path": "Load Products Details Page - Product: Xbox Controller",
+  "target": "max of response time",
+  "condition": "is less than",
+  "expectedValues": [5.0],
+  "result": false,
+  "message": "Load Products Details Page - Product: Xbox Controller: max of response time is less than 5.0",
+  "actualValue": [76.0]
+},
+{
+  "path": "Load Products Details Page - Product: Vintage Minature Car",
+  "target": "max of response time",
+  "condition": "is less than",
+  "expectedValues": [5.0],
+  "result": false,
+  "message": "Load Products Details Page - Product: Vintage Minature Car: max of response time is less than 5.0",
+  "actualValue": [73.0]
+},
+{
+  "path": "Add Product to Cart - Product Name: Rubicks Cube",
+  "target": "max of response time",
+  "condition": "is less than",
+  "expectedValues": [5.0],
+  "result": false,
+  "message": "Add Product to Cart - Product Name: Rubicks Cube: max of response time is less than 5.0",
+  "actualValue": [61.0]
+},
+{
+  "path": "Load Products Details Page - Product: Playing Cards",
+  "target": "max of response time",
+  "condition": "is less than",
+  "expectedValues": [5.0],
+  "result": false,
+  "message": "Load Products Details Page - Product: Playing Cards: max of response time is less than 5.0",
+  "actualValue": [79.0]
+},
+{
+  "path": "Add Product to Cart - Product Name: Vintage Minature Car",
+  "target": "max of response time",
+  "condition": "is less than",
+  "expectedValues": [5.0],
+  "result": false,
+  "message": "Add Product to Cart - Product Name: Vintage Minature Car: max of response time is less than 5.0",
+  "actualValue": [59.0]
+},
+{
+  "path": "Load Products Details Page - Product: Darts Board",
+  "target": "max of response time",
+  "condition": "is less than",
+  "expectedValues": [5.0],
+  "result": false,
+  "message": "Load Products Details Page - Product: Darts Board: max of response time is less than 5.0",
+  "actualValue": [65.0]
+},
+{
+  "path": "Load Products Details Page - Product: PS4 Controller",
+  "target": "max of response time",
+  "condition": "is less than",
+  "expectedValues": [5.0],
+  "result": false,
+  "message": "Load Products Details Page - Product: PS4 Controller: max of response time is less than 5.0",
+  "actualValue": [72.0]
+},
+{
+  "path": "Load Products Details Page - Product: Coloured Building Blocks",
+  "target": "max of response time",
+  "condition": "is less than",
+  "expectedValues": [5.0],
+  "result": false,
+  "message": "Load Products Details Page - Product: Coloured Building Blocks: max of response time is less than 5.0",
+  "actualValue": [62.0]
+},
+{
+  "path": "Load Products Details Page - Product: Train Toy",
+  "target": "max of response time",
+  "condition": "is less than",
+  "expectedValues": [5.0],
+  "result": false,
+  "message": "Load Products Details Page - Product: Train Toy: max of response time is less than 5.0",
+  "actualValue": [64.0]
+},
+{
+  "path": "Load Products Details Page - Product: Brown Teddy Bear",
+  "target": "max of response time",
+  "condition": "is less than",
+  "expectedValues": [5.0],
+  "result": false,
+  "message": "Load Products Details Page - Product: Brown Teddy Bear: max of response time is less than 5.0",
+  "actualValue": [63.0]
+},
+{
+  "path": "Load Products Details Page - Product: Rabbit Model",
+  "target": "max of response time",
+  "condition": "is less than",
+  "expectedValues": [5.0],
+  "result": false,
+  "message": "Load Products Details Page - Product: Rabbit Model: max of response time is less than 5.0",
+  "actualValue": [62.0]
+},
+{
+  "path": "Add Product to Cart - Product Name: Rabbit Model",
+  "target": "max of response time",
+  "condition": "is less than",
+  "expectedValues": [5.0],
+  "result": false,
+  "message": "Add Product to Cart - Product Name: Rabbit Model: max of response time is less than 5.0",
+  "actualValue": [63.0]
+},
+{
+  "path": "Add Product to Cart - Product Name: Xbox Controller",
+  "target": "max of response time",
+  "condition": "is less than",
+  "expectedValues": [5.0],
+  "result": false,
+  "message": "Add Product to Cart - Product Name: Xbox Controller: max of response time is less than 5.0",
+  "actualValue": [51.0]
+},
+{
+  "path": "Load Products Details Page - Product: Wooden Baby Worm",
+  "target": "max of response time",
+  "condition": "is less than",
+  "expectedValues": [5.0],
+  "result": false,
+  "message": "Load Products Details Page - Product: Wooden Baby Worm: max of response time is less than 5.0",
+  "actualValue": [65.0]
+},
+{
+  "path": "Load Products Details Page - Product: US Style Basketball",
+  "target": "max of response time",
+  "condition": "is less than",
+  "expectedValues": [5.0],
+  "result": false,
+  "message": "Load Products Details Page - Product: US Style Basketball: max of response time is less than 5.0",
+  "actualValue": [55.0]
+},
+{
+  "path": "Load Products Details Page - Product: Hopscotch Kit",
+  "target": "max of response time",
+  "condition": "is less than",
+  "expectedValues": [5.0],
+  "result": false,
+  "message": "Load Products Details Page - Product: Hopscotch Kit: max of response time is less than 5.0",
+  "actualValue": [58.0]
+},
+{
+  "path": "Load Products Details Page - Product: Poker Set",
+  "target": "max of response time",
+  "condition": "is less than",
+  "expectedValues": [5.0],
+  "result": false,
+  "message": "Load Products Details Page - Product: Poker Set: max of response time is less than 5.0",
+  "actualValue": [58.0]
+},
+{
+  "path": "Load Products Details Page - Product: Alphabet Letters",
+  "target": "max of response time",
+  "condition": "is less than",
+  "expectedValues": [5.0],
+  "result": false,
+  "message": "Load Products Details Page - Product: Alphabet Letters: max of response time is less than 5.0",
+  "actualValue": [61.0]
+},
+{
+  "path": "Load Products Details Page - Product: VR Headset",
+  "target": "max of response time",
+  "condition": "is less than",
+  "expectedValues": [5.0],
+  "result": false,
+  "message": "Load Products Details Page - Product: VR Headset: max of response time is less than 5.0",
+  "actualValue": [58.0]
+},
+{
+  "path": "Add Product to Cart - Product Name: VR Headset",
+  "target": "max of response time",
+  "condition": "is less than",
+  "expectedValues": [5.0],
+  "result": false,
+  "message": "Add Product to Cart - Product Name: VR Headset: max of response time is less than 5.0",
+  "actualValue": [58.0]
+}
+  ]
+}

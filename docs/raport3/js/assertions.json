@@ -1,0 +1,10 @@
+{
+  "simulation": "acetoys.AceToysSimulation",
+  "simulationId": "acetoyssimulation-20250213201038531",
+  "start": 1739477444434,
+  "description": "test",
+  "scenarios": ["Default Load Test"],
+  "assertions": [
+
+  ]
+}

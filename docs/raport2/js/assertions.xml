@@ -1,0 +1,104 @@
+<testsuite name="acetoys.AceToysSimulation" tests="34" errors="0" failures="33" time="0">
+<testcase name="Global: mean of response time is less than 3.0" status="false" time="0">
+  <failure type="Global">Actual value: 79.0</failure>
+</testcase>
+<testcase name="Global: percentage of successful events is greater than 99.0" status="true" time="0">
+  <system-out>Global: percentage of successful events is greater than 99.0</system-out>
+</testcase>
+<testcase name="Load Home Page: max of response time is less than 5.0" status="false" time="0">
+  <failure type="Load Home Page">Actual value: 216.0</failure>
+</testcase>
+<testcase name="Load Products List Page - Category: Kids Toys: max of response time is less than 5.0" status="false" time="0">
+  <failure type="Load Products List Page - Category: Kids Toys">Actual value: 112.0</failure>
+</testcase>
+<testcase name="Load Our Story Page: max of response time is less than 5.0" status="false" time="0">
+  <failure type="Load Our Story Page">Actual value: 79.0</failure>
+</testcase>
+<testcase name="Load Get In Touch: max of response time is less than 5.0" status="false" time="0">
+  <failure type="Load Get In Touch">Actual value: 66.0</failure>
+</testcase>
+<testcase name="Load Products Details Page - Product: Assorted Building Blocks: max of response time is less than 5.0" status="false" time="0">
+  <failure type="Load Products Details Page - Product: Assorted Building Blocks">Actual value: 62.0</failure>
+</testcase>
+<testcase name="Load Products Details Page - Product: Doctors Play Kit: max of response time is less than 5.0" status="false" time="0">
+  <failure type="Load Products Details Page - Product: Doctors Play Kit">Actual value: 60.0</failure>
+</testcase>
+<testcase name="Add Product to Cart - Product Name: Doctors Play Kit: max of response time is less than 5.0" status="false" time="0">
+  <failure type="Add Product to Cart - Product Name: Doctors Play Kit">Actual value: 57.0</failure>
+</testcase>
+<testcase name="Add Product to Cart - Product Name: Assorted Building Blocks: max of response time is less than 5.0" status="false" time="0">
+  <failure type="Add Product to Cart - Product Name: Assorted Building Blocks">Actual value: 52.0</failure>
+</testcase>
+<testcase name="Load Products List Page - Category: Grown-ups Toys: max of response time is less than 5.0" status="false" time="0">
+  <failure type="Load Products List Page - Category: Grown-ups Toys">Actual value: 119.0</failure>
+</testcase>
+<testcase name="Load Products List Page - Category: Babies Toys: max of response time is less than 5.0" status="false" time="0">
+  <failure type="Load Products List Page - Category: Babies Toys">Actual value: 120.0</failure>
+</testcase>
+<testcase name="Load Products List Page - Category: All Products: max of response time is less than 5.0" status="false" time="0">
+  <failure type="Load Products List Page - Category: All Products">Actual value: 123.0</failure>
+</testcase>
+<testcase name="Load Products Details Page - Product: Rubicks Cube: max of response time is less than 5.0" status="false" time="0">
+  <failure type="Load Products Details Page - Product: Rubicks Cube">Actual value: 55.0</failure>
+</testcase>
+<testcase name="Load Products Details Page - Product: Xbox Controller: max of response time is less than 5.0" status="false" time="0">
+  <failure type="Load Products Details Page - Product: Xbox Controller">Actual value: 76.0</failure>
+</testcase>
+<testcase name="Load Products Details Page - Product: Vintage Minature Car: max of response time is less than 5.0" status="false" time="0">
+  <failure type="Load Products Details Page - Product: Vintage Minature Car">Actual value: 73.0</failure>
+</testcase>
+<testcase name="Add Product to Cart - Product Name: Rubicks Cube: max of response time is less than 5.0" status="false" time="0">
+  <failure type="Add Product to Cart - Product Name: Rubicks Cube">Actual value: 61.0</failure>
+</testcase>
+<testcase name="Load Products Details Page - Product: Playing Cards: max of response time is less than 5.0" status="false" time="0">
+  <failure type="Load Products Details Page - Product: Playing Cards">Actual value: 79.0</failure>
+</testcase>
+<testcase name="Add Product to Cart - Product Name: Vintage Minature Car: max of response time is less than 5.0" status="false" time="0">
+  <failure type="Add Product to Cart - Product Name: Vintage Minature Car">Actual value: 59.0</failure>
+</testcase>
+<testcase name="Load Products Details Page - Product: Darts Board: max of response time is less than 5.0" status="false" time="0">
+  <failure type="Load Products Details Page - Product: Darts Board">Actual value: 65.0</failure>
+</testcase>
+<testcase name="Load Products Details Page - Product: PS4 Controller: max of response time is less than 5.0" status="false" time="0">
+  <failure type="Load Products Details Page - Product: PS4 Controller">Actual value: 72.0</failure>
+</testcase>
+<testcase name="Load Products Details Page - Product: Coloured Building Blocks: max of response time is less than 5.0" status="false" time="0">
+  <failure type="Load Products Details Page - Product: Coloured Building Blocks">Actual value: 62.0</failure>
+</testcase>
+<testcase name="Load Products Details Page - Product: Train Toy: max of response time is less than 5.0" status="false" time="0">
+  <failure type="Load Products Details Page - Product: Train Toy">Actual value: 64.0</failure>
+</testcase>
+<testcase name="Load Products Details Page - Product: Brown Teddy Bear: max of response time is less than 5.0" status="false" time="0">
+  <failure type="Load Products Details Page - Product: Brown Teddy Bear">Actual value: 63.0</failure>
+</testcase>
+<testcase name="Load Products Details Page - Product: Rabbit Model: max of response time is less than 5.0" status="false" time="0">
+  <failure type="Load Products Details Page - Product: Rabbit Model">Actual value: 62.0</failure>
+</testcase>
+<testcase name="Add Product to Cart - Product Name: Rabbit Model: max of response time is less than 5.0" status="false" time="0">
+  <failure type="Add Product to Cart - Product Name: Rabbit Model">Actual value: 63.0</failure>
+</testcase>
+<testcase name="Add Product to Cart - Product Name: Xbox Controller: max of response time is less than 5.0" status="false" time="0">
+  <failure type="Add Product to Cart - Product Name: Xbox Controller">Actual value: 51.0</failure>
+</testcase>
+<testcase name="Load Products Details Page - Product: Wooden Baby Worm: max of response time is less than 5.0" status="false" time="0">
+  <failure type="Load Products Details Page - Product: Wooden Baby Worm">Actual value: 65.0</failure>
+</testcase>
+<testcase name="Load Products Details Page - Product: US Style Basketball: max of response time is less than 5.0" status="false" time="0">
+  <failure type="Load Products Details Page - Product: US Style Basketball">Actual value: 55.0</failure>
+</testcase>
+<testcase name="Load Products Details Page - Product: Hopscotch Kit: max of response time is less than 5.0" status="false" time="0">
+  <failure type="Load Products Details Page - Product: Hopscotch Kit">Actual value: 58.0</failure>
+</testcase>
+<testcase name="Load Products Details Page - Product: Poker Set: max of response time is less than 5.0" status="false" time="0">
+  <failure type="Load Products Details Page - Product: Poker Set">Actual value: 58.0</failure>
+</testcase>
+<testcase name="Load Products Details Page - Product: Alphabet Letters: max of response time is less than 5.0" status="false" time="0">
+  <failure type="Load Products Details Page - Product: Alphabet Letters">Actual value: 61.0</failure>
+</testcase>
+<testcase name="Load Products Details Page - Product: VR Headset: max of response time is less than 5.0" status="false" time="0">
+  <failure type="Load Products Details Page - Product: VR Headset">Actual value: 58.0</failure>
+</testcase>
+<testcase name="Add Product to Cart - Product Name: VR Headset: max of response time is less than 5.0" status="false" time="0">
+  <failure type="Add Product to Cart - Product Name: VR Headset">Actual value: 58.0</failure>
+</testcase>
+</testsuite>

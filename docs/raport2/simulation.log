@@ -1,0 +1,160 @@
+ASSERTION	AAEDAAEDAwAAAAAAAAAIQA==
+ASSERTION	AAECAAIEAAAAAAAAwFhA
+ASSERTION	AAIDAAECAwAAAAAAAAAUQA==
+RUN	acetoys.AceToysSimulation	acetoyssimulation	1739478192622	test	3.8.4
+USER	Default Load Test	START	1739478198316
+USER	Default Load Test	START	1739478198316
+USER	Default Load Test	START	1739478198316
+USER	Default Load Test	START	1739478198316
+USER	Default Load Test	START	1739478198316
+REQUEST		Load Home Page	1739478198313	1739478198529	OK	 
+REQUEST		Load Home Page	1739478198313	1739478198525	OK	 
+REQUEST		Load Home Page	1739478198313	1739478198523	OK	 
+REQUEST		Load Home Page	1739478198313	1739478198527	OK	 
+REQUEST		Load Home Page	1739478198313	1739478198527	OK	 
+REQUEST		Load Products List Page - Category: Kids Toys	1739478200683	1739478200783	OK	 
+REQUEST		Load Products List Page - Category: Kids Toys	1739478201472	1739478201576	OK	 
+REQUEST		Load Our Story Page	1739478201625	1739478201700	OK	 
+REQUEST		Load Our Story Page	1739478201625	1739478201701	OK	 
+REQUEST		Load Our Story Page	1739478201625	1739478201704	OK	 
+REQUEST		Load Get In Touch	1739478202865	1739478202918	OK	 
+REQUEST		Load Products Details Page - Product: Assorted Building Blocks	1739478202881	1739478202943	OK	 
+REQUEST		Load Get In Touch	1739478203474	1739478203529	OK	 
+REQUEST		Load Products Details Page - Product: Doctors Play Kit	1739478203537	1739478203590	OK	 
+REQUEST		Load Get In Touch	1739478203969	1739478204021	OK	 
+REQUEST		Add Product to Cart - Product Name: Doctors Play Kit	1739478204908	1739478204961	OK	 
+REQUEST		Load Home Page	1739478204964	1739478205021	OK	 
+REQUEST		Load Products List Page - Category: Kids Toys	1739478204940	1739478205052	OK	 
+REQUEST		Add Product to Cart - Product Name: Assorted Building Blocks	1739478205482	1739478205534	OK	 
+REQUEST		Load Home Page	1739478205535	1739478205603	OK	 
+REQUEST		Load Products List Page - Category: Grown-ups Toys	1739478206105	1739478206215	OK	 
+REQUEST		Load Products List Page - Category: Babies Toys	1739478206461	1739478206570	OK	 
+REQUEST		Load Products List Page - Category: All Products	1739478206955	1739478207067	OK	 
+REQUEST		Load Products List Page - Category: Grown-ups Toys	1739478208547	1739478208666	OK	 
+REQUEST		Load Products Details Page - Product: Assorted Building Blocks	1739478208917	1739478208970	OK	 
+REQUEST		Load Products List Page - Category: All Products	1739478208975	1739478209073	OK	 
+REQUEST		Load Products Details Page - Product: Rubicks Cube	1739478209525	1739478209580	OK	 
+REQUEST		Load Products Details Page - Product: Vintage Minature Car	1739478210438	1739478210511	OK	 
+REQUEST		Load Products Details Page - Product: Xbox Controller	1739478210438	1739478210514	OK	 
+REQUEST		Load Products List Page - Category: Grown-ups Toys	1739478210519	1739478210614	OK	 
+REQUEST		Add Product to Cart - Product Name: Rubicks Cube	1739478211153	1739478211214	OK	 
+REQUEST		Load Home Page	1739478211216	1739478211275	OK	 
+REQUEST		Load Products Details Page - Product: Assorted Building Blocks	1739478211562	1739478211622	OK	 
+REQUEST		Load Products List Page - Category: Grown-ups Toys	1739478211626	1739478211726	OK	 
+REQUEST		Load Products Details Page - Product: Playing Cards	1739478211888	1739478211967	OK	 
+REQUEST		Load Products List Page - Category: Grown-ups Toys	1739478211971	1739478212065	OK	 
+REQUEST		Add Product to Cart - Product Name: Vintage Minature Car	1739478212900	1739478212959	OK	 
+REQUEST		Load Home Page	1739478212960	1739478213018	OK	 
+REQUEST		Load Products List Page - Category: Grown-ups Toys	1739478214252	1739478214371	OK	 
+REQUEST		Load Products Details Page - Product: Darts Board	1739478215514	1739478215579	OK	 
+REQUEST		Load Products List Page - Category: All Products	1739478215582	1739478215691	OK	 
+REQUEST		Load Our Story Page	1739478216030	1739478216088	OK	 
+REQUEST		Load Products Details Page - Product: PS4 Controller	1739478216171	1739478216243	OK	 
+REQUEST		Load Products List Page - Category: Babies Toys	1739478216245	1739478216344	OK	 
+REQUEST		Load Products Details Page - Product: Coloured Building Blocks	1739478216295	1739478216351	OK	 
+REQUEST		Load Home Page	1739478216352	1739478216405	OK	 
+REQUEST		Load Get In Touch	1739478217241	1739478217298	OK	 
+REQUEST		Load Products Details Page - Product: Doctors Play Kit	1739478217352	1739478217412	OK	 
+REQUEST		Load Products List Page - Category: Grown-ups Toys	1739478219018	1739478219132	OK	 
+REQUEST		Load Products List Page - Category: Babies Toys	1739478219172	1739478219292	OK	 
+REQUEST		Load Products Details Page - Product: Train Toy	1739478219528	1739478219587	OK	 
+REQUEST		Load Home Page	1739478219590	1739478219644	OK	 
+REQUEST		Add Product to Cart - Product Name: Doctors Play Kit	1739478219634	1739478219691	OK	 
+REQUEST		Load Home Page	1739478219693	1739478219743	OK	 
+REQUEST		Load Products Details Page - Product: Brown Teddy Bear	1739478220562	1739478220625	OK	 
+REQUEST		Load Home Page	1739478220628	1739478220677	OK	 
+REQUEST		Load Products Details Page - Product: Rabbit Model	1739478220795	1739478220851	OK	 
+REQUEST		Load Products List Page - Category: All Products	1739478221896	1739478222010	OK	 
+REQUEST		Load Products List Page - Category: All Products	1739478222318	1739478222441	OK	 
+REQUEST		Add Product to Cart - Product Name: Rabbit Model	1739478222924	1739478222987	OK	 
+REQUEST		Load Home Page	1739478222988	1739478223047	OK	 
+REQUEST		Load Products Details Page - Product: PS4 Controller	1739478222987	1739478223048	OK	 
+REQUEST		Load Products List Page - Category: Kids Toys	1739478223049	1739478223156	OK	 
+REQUEST		Load Products Details Page - Product: Xbox Controller	1739478223378	1739478223444	OK	 
+REQUEST		Load Our Story Page	1739478223686	1739478223741	OK	 
+REQUEST		Load Products Details Page - Product: Rabbit Model	1739478223874	1739478223928	OK	 
+REQUEST		Add Product to Cart - Product Name: Rabbit Model	1739478224943	1739478225002	OK	 
+REQUEST		Load Home Page	1739478225003	1739478225066	OK	 
+REQUEST		Add Product to Cart - Product Name: Xbox Controller	1739478225923	1739478225974	OK	 
+REQUEST		Load Home Page	1739478225975	1739478226039	OK	 
+REQUEST		Load Our Story Page	1739478226064	1739478226127	OK	 
+REQUEST		Load Get In Touch	1739478226252	1739478226318	OK	 
+REQUEST		Load Products Details Page - Product: Wooden Baby Worm	1739478227122	1739478227181	OK	 
+REQUEST		Load Products List Page - Category: All Products	1739478227184	1739478227294	OK	 
+REQUEST		Load Get In Touch	1739478227369	1739478227434	OK	 
+REQUEST		Load Our Story Page	1739478228082	1739478228137	OK	 
+REQUEST		Load Products List Page - Category: Grown-ups Toys	1739478228409	1739478228515	OK	 
+REQUEST		Load Our Story Page	1739478229045	1739478229098	OK	 
+REQUEST		Load Products List Page - Category: All Products	1739478229418	1739478229540	OK	 
+REQUEST		Load Get In Touch	1739478230550	1739478230606	OK	 
+REQUEST		Load Get In Touch	1739478230848	1739478230901	OK	 
+REQUEST		Load Products Details Page - Product: Train Toy	1739478231392	1739478231456	OK	 
+REQUEST		Load Products List Page - Category: Grown-ups Toys	1739478231458	1739478231556	OK	 
+REQUEST		Load Products Details Page - Product: Coloured Building Blocks	1739478232322	1739478232384	OK	 
+REQUEST		Load Home Page	1739478232387	1739478232443	OK	 
+REQUEST		Load Products List Page - Category: Kids Toys	1739478232663	1739478232774	OK	 
+REQUEST		Load Products Details Page - Product: US Style Basketball	1739478233070	1739478233125	OK	 
+REQUEST		Load Products List Page - Category: Kids Toys	1739478233023	1739478233127	OK	 
+REQUEST		Load Products List Page - Category: All Products	1739478233127	1739478233225	OK	 
+REQUEST		Load Our Story Page	1739478235462	1739478235519	OK	 
+REQUEST		Load Products Details Page - Product: Brown Teddy Bear	1739478236238	1739478236293	OK	 
+REQUEST		Load Products List Page - Category: All Products	1739478236295	1739478236389	OK	 
+REQUEST		Load Products Details Page - Product: Wooden Baby Worm	1739478236485	1739478236550	OK	 
+REQUEST		Load Products List Page - Category: Kids Toys	1739478236552	1739478236644	OK	 
+REQUEST		Load Get In Touch	1739478236639	1739478236697	OK	 
+REQUEST		Load Products Details Page - Product: Hopscotch Kit	1739478236686	1739478236744	OK	 
+REQUEST		Load Products List Page - Category: All Products	1739478236746	1739478236844	OK	 
+REQUEST		Load Products Details Page - Product: Rabbit Model	1739478238016	1739478238078	OK	 
+REQUEST		Load Products List Page - Category: Babies Toys	1739478238080	1739478238194	OK	 
+REQUEST		Load Products List Page - Category: Babies Toys	1739478238913	1739478239033	OK	 
+REQUEST		Load Products Details Page - Product: Coloured Building Blocks	1739478239179	1739478239233	OK	 
+REQUEST		Load Home Page	1739478239234	1739478239289	OK	 
+REQUEST		Load Products Details Page - Product: Hopscotch Kit	1739478241211	1739478241269	OK	 
+REQUEST		Load Products List Page - Category: Grown-ups Toys	1739478241270	1739478241376	OK	 
+REQUEST		Load Products Details Page - Product: PS4 Controller	1739478241922	1739478241989	OK	 
+REQUEST		Load Products List Page - Category: Kids Toys	1739478241991	1739478242097	OK	 
+REQUEST		Load Products Details Page - Product: Poker Set	1739478242282	1739478242340	OK	 
+REQUEST		Load Our Story Page	1739478242298	1739478242359	OK	 
+REQUEST		Load Products List Page - Category: Babies Toys	1739478242342	1739478242445	OK	 
+REQUEST		Load Products Details Page - Product: Rubicks Cube	1739478242963	1739478243018	OK	 
+REQUEST		Load Home Page	1739478243021	1739478243072	OK	 
+REQUEST		Load Products Details Page - Product: Rabbit Model	1739478244750	1739478244804	OK	 
+REQUEST		Load Home Page	1739478244805	1739478244863	OK	 
+REQUEST		Load Get In Touch	1739478244842	1739478244905	OK	 
+REQUEST		Load Our Story Page	1739478246082	1739478246140	OK	 
+REQUEST		Load Products Details Page - Product: Rubicks Cube	1739478246329	1739478246384	OK	 
+REQUEST		Load Home Page	1739478246386	1739478246439	OK	 
+REQUEST		Load Products Details Page - Product: Vintage Minature Car	1739478246717	1739478246780	OK	 
+REQUEST		Load Products List Page - Category: Kids Toys	1739478246783	1739478246883	OK	 
+REQUEST		Load Products List Page - Category: Kids Toys	1739478246919	1739478247030	OK	 
+REQUEST		Load Our Story Page	1739478247867	1739478247920	OK	 
+REQUEST		Load Get In Touch	1739478247961	1739478248025	OK	 
+REQUEST		Load Our Story Page	1739478249449	1739478249503	OK	 
+REQUEST		Load Products List Page - Category: Kids Toys	1739478250052	1739478250158	OK	 
+REQUEST		Load Get In Touch	1739478250357	1739478250409	OK	 
+REQUEST		Load Products Details Page - Product: Alphabet Letters	1739478250688	1739478250749	OK	 
+REQUEST		Load Home Page	1739478250750	1739478250807	OK	 
+REQUEST		Load Get In Touch	1739478251019	1739478251081	OK	 
+REQUEST		Load Products Details Page - Product: VR Headset	1739478251454	1739478251509	OK	 
+REQUEST		Load Products List Page - Category: Babies Toys	1739478251512	1739478251604	OK	 
+REQUEST		Load Products List Page - Category: Babies Toys	1739478253176	1739478253294	OK	 
+REQUEST		Load Products List Page - Category: Babies Toys	1739478253206	1739478253306	OK	 
+REQUEST		Load Products Details Page - Product: Wooden Baby Worm	1739478253377	1739478253435	OK	 
+REQUEST		Load Products List Page - Category: Babies Toys	1739478253437	1739478253537	OK	 
+REQUEST		Load Products List Page - Category: Babies Toys	1739478253687	1739478253795	OK	 
+REQUEST		Load Products Details Page - Product: VR Headset	1739478254825	1739478254883	OK	 
+REQUEST		Load Products Details Page - Product: PS4 Controller	1739478256164	1739478256224	OK	 
+REQUEST		Load Products Details Page - Product: Vintage Minature Car	1739478256180	1739478256234	OK	 
+REQUEST		Load Products List Page - Category: Kids Toys	1739478256228	1739478256319	OK	 
+REQUEST		Load Products List Page - Category: Babies Toys	1739478256236	1739478256336	OK	 
+REQUEST		Load Products Details Page - Product: Wooden Baby Worm	1739478257017	1739478257072	OK	 
+REQUEST		Load Products List Page - Category: Kids Toys	1739478257074	1739478257173	OK	 
+REQUEST		Load Products Details Page - Product: Alphabet Letters	1739478257744	1739478257799	OK	 
+REQUEST		Load Products List Page - Category: Grown-ups Toys	1739478257801	1739478257905	OK	 
+REQUEST		Add Product to Cart - Product Name: VR Headset	1739478257851	1739478257909	OK	 
+REQUEST		Load Home Page	1739478257910	1739478257974	OK	 
+USER	Default Load Test	END	1739478258817
+USER	Default Load Test	END	1739478259900
+USER	Default Load Test	END	1739478259946
+USER	Default Load Test	END	1739478260211
+USER	Default Load Test	END	1739478260984
