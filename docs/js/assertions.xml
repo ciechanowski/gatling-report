@@ -1,0 +1,143 @@
+<testsuite name="acetoys.AceToysSimulation" tests="47" errors="0" failures="46" time="0">
+<testcase name="Global: mean of response time is less than 3.0" status="false" time="0">
+  <failure type="Global">Actual value: 112.0</failure>
+</testcase>
+<testcase name="Global: percentage of successful events is greater than 99.0" status="true" time="0">
+  <system-out>Global: percentage of successful events is greater than 99.0</system-out>
+</testcase>
+<testcase name="Load Home Page: max of response time is less than 5.0" status="false" time="0">
+  <failure type="Load Home Page">Actual value: 365.0</failure>
+</testcase>
+<testcase name="Load Products List Page - Category: Babies Toys: max of response time is less than 5.0" status="false" time="0">
+  <failure type="Load Products List Page - Category: Babies Toys">Actual value: 305.0</failure>
+</testcase>
+<testcase name="Load Products List Page - Category: Kids Toys: max of response time is less than 5.0" status="false" time="0">
+  <failure type="Load Products List Page - Category: Kids Toys">Actual value: 254.0</failure>
+</testcase>
+<testcase name="Load Our Story Page: max of response time is less than 5.0" status="false" time="0">
+  <failure type="Load Our Story Page">Actual value: 131.0</failure>
+</testcase>
+<testcase name="Load Products Details Page - Product: Coloured Building Blocks: max of response time is less than 5.0" status="false" time="0">
+  <failure type="Load Products Details Page - Product: Coloured Building Blocks">Actual value: 126.0</failure>
+</testcase>
+<testcase name="Load Get In Touch: max of response time is less than 5.0" status="false" time="0">
+  <failure type="Load Get In Touch">Actual value: 109.0</failure>
+</testcase>
+<testcase name="Load Products Details Page - Product: US Style Basketball: max of response time is less than 5.0" status="false" time="0">
+  <failure type="Load Products Details Page - Product: US Style Basketball">Actual value: 91.0</failure>
+</testcase>
+<testcase name="Add Product to Cart - Product Name: Coloured Building Blocks: max of response time is less than 5.0" status="false" time="0">
+  <failure type="Add Product to Cart - Product Name: Coloured Building Blocks">Actual value: 187.0</failure>
+</testcase>
+<testcase name="Add Product to Cart - Product Name: US Style Basketball: max of response time is less than 5.0" status="false" time="0">
+  <failure type="Add Product to Cart - Product Name: US Style Basketball">Actual value: 139.0</failure>
+</testcase>
+<testcase name="Load Products List Page - Category: Grown-ups Toys: max of response time is less than 5.0" status="false" time="0">
+  <failure type="Load Products List Page - Category: Grown-ups Toys">Actual value: 163.0</failure>
+</testcase>
+<testcase name="Login User: max of response time is less than 5.0" status="false" time="0">
+  <failure type="Login User">Actual value: 154.0</failure>
+</testcase>
+<testcase name="Login User Redirect 1: max of response time is less than 5.0" status="false" time="0">
+  <failure type="Login User Redirect 1">Actual value: 89.0</failure>
+</testcase>
+<testcase name="View Cart: max of response time is less than 5.0" status="false" time="0">
+  <failure type="View Cart">Actual value: 120.0</failure>
+</testcase>
+<testcase name="Load Products Details Page - Product: Xbox Controller: max of response time is less than 5.0" status="false" time="0">
+  <failure type="Load Products Details Page - Product: Xbox Controller">Actual value: 98.0</failure>
+</testcase>
+<testcase name="Increase Product Quantity in Cart - Product Name: US Style Basketball: max of response time is less than 5.0" status="false" time="0">
+  <failure type="Increase Product Quantity in Cart - Product Name: US Style Basketball">Actual value: 68.0</failure>
+</testcase>
+<testcase name="Increase Product Quantity in Cart - Product Name: US Style Basketball Redirect 1: max of response time is less than 5.0" status="false" time="0">
+  <failure type="Increase Product Quantity in Cart - Product Name: US Style Basketball Redirect 1">Actual value: 101.0</failure>
+</testcase>
+<testcase name="Load Products Details Page - Product: VR Headset: max of response time is less than 5.0" status="false" time="0">
+  <failure type="Load Products Details Page - Product: VR Headset">Actual value: 95.0</failure>
+</testcase>
+<testcase name="Decrease Product Quantity in Cart - Product Name: US Style Basketball: max of response time is less than 5.0" status="false" time="0">
+  <failure type="Decrease Product Quantity in Cart - Product Name: US Style Basketball">Actual value: 81.0</failure>
+</testcase>
+<testcase name="Decrease Product Quantity in Cart - Product Name: US Style Basketball Redirect 1: max of response time is less than 5.0" status="false" time="0">
+  <failure type="Decrease Product Quantity in Cart - Product Name: US Style Basketball Redirect 1">Actual value: 97.0</failure>
+</testcase>
+<testcase name="Checkout: max of response time is less than 5.0" status="false" time="0">
+  <failure type="Checkout">Actual value: 71.0</failure>
+</testcase>
+<testcase name="Checkout Redirect 1: max of response time is less than 5.0" status="false" time="0">
+  <failure type="Checkout Redirect 1">Actual value: 78.0</failure>
+</testcase>
+<testcase name="Load Products List Page - Category: All Products: max of response time is less than 5.0" status="false" time="0">
+  <failure type="Load Products List Page - Category: All Products">Actual value: 173.0</failure>
+</testcase>
+<testcase name="Load Products Details Page - Product: Vintage Minature Car: max of response time is less than 5.0" status="false" time="0">
+  <failure type="Load Products Details Page - Product: Vintage Minature Car">Actual value: 87.0</failure>
+</testcase>
+<testcase name="Load Products Details Page - Product: Poker Set: max of response time is less than 5.0" status="false" time="0">
+  <failure type="Load Products Details Page - Product: Poker Set">Actual value: 127.0</failure>
+</testcase>
+<testcase name="Load Products Details Page - Product: Playing Cards: max of response time is less than 5.0" status="false" time="0">
+  <failure type="Load Products Details Page - Product: Playing Cards">Actual value: 107.0</failure>
+</testcase>
+<testcase name="Load Products Details Page - Product: Alphabet Letters: max of response time is less than 5.0" status="false" time="0">
+  <failure type="Load Products Details Page - Product: Alphabet Letters">Actual value: 88.0</failure>
+</testcase>
+<testcase name="Load Products Details Page - Product: Fake Donuts: max of response time is less than 5.0" status="false" time="0">
+  <failure type="Load Products Details Page - Product: Fake Donuts">Actual value: 95.0</failure>
+</testcase>
+<testcase name="Load Products Details Page - Product: PS4 Controller: max of response time is less than 5.0" status="false" time="0">
+  <failure type="Load Products Details Page - Product: PS4 Controller">Actual value: 120.0</failure>
+</testcase>
+<testcase name="Load Products Details Page - Product: Scrabble Set: max of response time is less than 5.0" status="false" time="0">
+  <failure type="Load Products Details Page - Product: Scrabble Set">Actual value: 90.0</failure>
+</testcase>
+<testcase name="Load Products Details Page - Product: Doctors Play Kit: max of response time is less than 5.0" status="false" time="0">
+  <failure type="Load Products Details Page - Product: Doctors Play Kit">Actual value: 78.0</failure>
+</testcase>
+<testcase name="Add Product to Cart - Product Name: PS4 Controller: max of response time is less than 5.0" status="false" time="0">
+  <failure type="Add Product to Cart - Product Name: PS4 Controller">Actual value: 72.0</failure>
+</testcase>
+<testcase name="Load Products Details Page - Product: Train Toy: max of response time is less than 5.0" status="false" time="0">
+  <failure type="Load Products Details Page - Product: Train Toy">Actual value: 85.0</failure>
+</testcase>
+<testcase name="Add Product to Cart - Product Name: Doctors Play Kit: max of response time is less than 5.0" status="false" time="0">
+  <failure type="Add Product to Cart - Product Name: Doctors Play Kit">Actual value: 61.0</failure>
+</testcase>
+<testcase name="Increase Product Quantity in Cart - Product Name: Doctors Play Kit: max of response time is less than 5.0" status="false" time="0">
+  <failure type="Increase Product Quantity in Cart - Product Name: Doctors Play Kit">Actual value: 83.0</failure>
+</testcase>
+<testcase name="Increase Product Quantity in Cart - Product Name: Doctors Play Kit Redirect 1: max of response time is less than 5.0" status="false" time="0">
+  <failure type="Increase Product Quantity in Cart - Product Name: Doctors Play Kit Redirect 1">Actual value: 95.0</failure>
+</testcase>
+<testcase name="Add Product to Cart - Product Name: Vintage Minature Car: max of response time is less than 5.0" status="false" time="0">
+  <failure type="Add Product to Cart - Product Name: Vintage Minature Car">Actual value: 79.0</failure>
+</testcase>
+<testcase name="Decrease Product Quantity in Cart - Product Name: Doctors Play Kit: max of response time is less than 5.0" status="false" time="0">
+  <failure type="Decrease Product Quantity in Cart - Product Name: Doctors Play Kit">Actual value: 67.0</failure>
+</testcase>
+<testcase name="Decrease Product Quantity in Cart - Product Name: Doctors Play Kit Redirect 1: max of response time is less than 5.0" status="false" time="0">
+  <failure type="Decrease Product Quantity in Cart - Product Name: Doctors Play Kit Redirect 1">Actual value: 86.0</failure>
+</testcase>
+<testcase name="Load Products Details Page - Product: Darts Board: max of response time is less than 5.0" status="false" time="0">
+  <failure type="Load Products Details Page - Product: Darts Board">Actual value: 73.0</failure>
+</testcase>
+<testcase name="Load Products Details Page - Product: Wooden Baby Worm: max of response time is less than 5.0" status="false" time="0">
+  <failure type="Load Products Details Page - Product: Wooden Baby Worm">Actual value: 79.0</failure>
+</testcase>
+<testcase name="Add Product to Cart - Product Name: Scrabble Set: max of response time is less than 5.0" status="false" time="0">
+  <failure type="Add Product to Cart - Product Name: Scrabble Set">Actual value: 75.0</failure>
+</testcase>
+<testcase name="Add Product to Cart - Product Name: Poker Set: max of response time is less than 5.0" status="false" time="0">
+  <failure type="Add Product to Cart - Product Name: Poker Set">Actual value: 65.0</failure>
+</testcase>
+<testcase name="Load Products Details Page - Product: Furry Toys: max of response time is less than 5.0" status="false" time="0">
+  <failure type="Load Products Details Page - Product: Furry Toys">Actual value: 61.0</failure>
+</testcase>
+<testcase name="Increase Product Quantity in Cart - Product Name: Coloured Building Blocks: max of response time is less than 5.0" status="false" time="0">
+  <failure type="Increase Product Quantity in Cart - Product Name: Coloured Building Blocks">Actual value: 56.0</failure>
+</testcase>
+<testcase name="Increase Product Quantity in Cart - Product Name: Coloured Building Blocks Redirect 1: max of response time is less than 5.0" status="false" time="0">
+  <failure type="Increase Product Quantity in Cart - Product Name: Coloured Building Blocks Redirect 1">Actual value: 84.0</failure>
+</testcase>
+</testsuite>

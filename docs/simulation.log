@@ -1,0 +1,167 @@
+ASSERTION	AAEDAAEDAwAAAAAAAAAIQA==
+ASSERTION	AAECAAIEAAAAAAAAwFhA
+ASSERTION	AAIDAAECAwAAAAAAAAAUQA==
+RUN	acetoys.AceToysSimulation	acetoyssimulation	1740426068536	test	3.8.4
+USER	Default Load Test	START	1740426074563
+USER	Default Load Test	START	1740426074563
+USER	Default Load Test	START	1740426074563
+USER	Default Load Test	START	1740426074563
+USER	Default Load Test	START	1740426074563
+REQUEST		Load Home Page	1740426074560	1740426074910	OK	 
+REQUEST		Load Home Page	1740426074560	1740426074925	OK	 
+REQUEST		Load Home Page	1740426074560	1740426074905	OK	 
+REQUEST		Load Home Page	1740426074560	1740426074925	OK	 
+REQUEST		Load Home Page	1740426074560	1740426074915	OK	 
+REQUEST		Load Our Story Page	1740426078040	1740426078155	OK	 
+REQUEST		Load Our Story Page	1740426078040	1740426078161	OK	 
+REQUEST		Load Products List Page - Category: Kids Toys	1740426077899	1740426078153	OK	 
+REQUEST		Load Products List Page - Category: Babies Toys	1740426077860	1740426078165	OK	 
+REQUEST		Load Our Story Page	1740426078040	1740426078171	OK	 
+REQUEST		Load Products Details Page - Product: Coloured Building Blocks	1740426079479	1740426079605	OK	 
+REQUEST		Load Get In Touch	1740426079602	1740426079689	OK	 
+REQUEST		Load Products Details Page - Product: US Style Basketball	1740426080533	1740426080624	OK	 
+REQUEST		Load Get In Touch	1740426080720	1740426080810	OK	 
+REQUEST		Load Get In Touch	1740426081030	1740426081120	OK	 
+REQUEST		Load Products List Page - Category: Kids Toys	1740426081697	1740426081859	OK	 
+REQUEST		Add Product to Cart - Product Name: US Style Basketball	1740426082023	1740426082162	OK	 
+REQUEST		Add Product to Cart - Product Name: Coloured Building Blocks	1740426081976	1740426082163	OK	 
+REQUEST		Load Home Page	1740426082174	1740426082278	OK	 
+REQUEST		Load Products List Page - Category: Grown-ups Toys	1740426082829	1740426082992	OK	 
+REQUEST		Load Products List Page - Category: Babies Toys	1740426083262	1740426083420	OK	 
+REQUEST		Login User	1740426084691	1740426084845	OK	 
+REQUEST		Login User Redirect 1	1740426084847	1740426084934	OK	 
+REQUEST		View Cart	1740426084938	1740426085058	OK	 
+REQUEST		Load Our Story Page	1740426085293	1740426085393	OK	 
+REQUEST		Load Products Details Page - Product: Xbox Controller	1740426086548	1740426086633	OK	 
+REQUEST		Increase Product Quantity in Cart - Product Name: US Style Basketball	1740426086625	1740426086693	OK	 
+REQUEST		Load Products List Page - Category: Grown-ups Toys	1740426086637	1740426086772	OK	 
+REQUEST		Increase Product Quantity in Cart - Product Name: US Style Basketball Redirect 1	1740426086693	1740426086794	OK	 
+REQUEST		Load Products Details Page - Product: VR Headset	1740426086765	1740426086860	OK	 
+REQUEST		Load Products List Page - Category: Babies Toys	1740426086862	1740426087016	OK	 
+REQUEST		Load Get In Touch	1740426087510	1740426087619	OK	 
+REQUEST		Load Products Details Page - Product: Xbox Controller	1740426087541	1740426087639	OK	 
+REQUEST		Load Products List Page - Category: Babies Toys	1740426087643	1740426087794	OK	 
+REQUEST		Decrease Product Quantity in Cart - Product Name: US Style Basketball	1740426087802	1740426087883	OK	 
+REQUEST		Decrease Product Quantity in Cart - Product Name: US Style Basketball Redirect 1	1740426087884	1740426087981	OK	 
+REQUEST		Checkout	1740426088999	1740426089070	OK	 
+REQUEST		Checkout Redirect 1	1740426089071	1740426089149	OK	 
+REQUEST		Load Products List Page - Category: All Products	1740426089139	1740426089312	OK	 
+REQUEST		Load Products Details Page - Product: Vintage Minature Car	1740426090690	1740426090777	OK	 
+REQUEST		Load Home Page	1740426090765	1740426090867	OK	 
+REQUEST		Load Products List Page - Category: All Products	1740426090778	1740426090945	OK	 
+REQUEST		Load Products Details Page - Product: Poker Set	1740426091170	1740426091261	OK	 
+REQUEST		Load Products List Page - Category: Grown-ups Toys	1740426091265	1740426091412	OK	 
+REQUEST		Load Products Details Page - Product: Playing Cards	1740426092300	1740426092407	OK	 
+REQUEST		Load Products List Page - Category: All Products	1740426092410	1740426092564	OK	 
+REQUEST		Load Products List Page - Category: Kids Toys	1740426092503	1740426092669	OK	 
+REQUEST		Load Products Details Page - Product: Playing Cards	1740426094014	1740426094096	OK	 
+REQUEST		Load Home Page	1740426094098	1740426094176	OK	 
+REQUEST		Load Products Details Page - Product: Alphabet Letters	1740426094305	1740426094393	OK	 
+REQUEST		Load Products List Page - Category: All Products	1740426094396	1740426094565	OK	 
+REQUEST		Load Products Details Page - Product: US Style Basketball	1740426094615	1740426094688	OK	 
+REQUEST		Load Products Details Page - Product: Fake Donuts	1740426096016	1740426096111	OK	 
+REQUEST		Load Home Page	1740426096112	1740426096191	OK	 
+REQUEST		Load Products Details Page - Product: PS4 Controller	1740426096282	1740426096372	OK	 
+REQUEST		Load Home Page	1740426096374	1740426096447	OK	 
+REQUEST		Load Our Story Page	1740426097181	1740426097266	OK	 
+REQUEST		Add Product to Cart - Product Name: US Style Basketball	1740426097569	1740426097644	OK	 
+REQUEST		Load Home Page	1740426097646	1740426097718	OK	 
+REQUEST		Load Get In Touch	1740426098483	1740426098578	OK	 
+REQUEST		Load Products List Page - Category: Babies Toys	1740426098657	1740426098823	OK	 
+REQUEST		Load Our Story Page	1740426099198	1740426099296	OK	 
+REQUEST		Load Products Details Page - Product: Scrabble Set	1740426099338	1740426099428	OK	 
+REQUEST		Load Products List Page - Category: Grown-ups Toys	1740426099430	1740426099554	OK	 
+REQUEST		Load Products List Page - Category: Babies Toys	1740426100508	1740426100659	OK	 
+REQUEST		Load Get In Touch	1740426100600	1740426100688	OK	 
+REQUEST		Load Products Details Page - Product: PS4 Controller	1740426100894	1740426100972	OK	 
+REQUEST		Load Products List Page - Category: Babies Toys	1740426101112	1740426101276	OK	 
+REQUEST		Load Products List Page - Category: Grown-ups Toys	1740426102040	1740426102166	OK	 
+REQUEST		Load Products Details Page - Product: Doctors Play Kit	1740426102239	1740426102317	OK	 
+REQUEST		Add Product to Cart - Product Name: PS4 Controller	1740426103187	1740426103259	OK	 
+REQUEST		Load Home Page	1740426103260	1740426103336	OK	 
+REQUEST		Load Products Details Page - Product: Train Toy	1740426104510	1740426104595	OK	 
+REQUEST		Load Home Page	1740426104597	1740426104675	OK	 
+REQUEST		Add Product to Cart - Product Name: Doctors Play Kit	1740426104821	1740426104882	OK	 
+REQUEST		Load Products Details Page - Product: Train Toy	1740426105826	1740426105905	OK	 
+REQUEST		Load Products List Page - Category: All Products	1740426105908	1740426106044	OK	 
+REQUEST		Load Products Details Page - Product: Vintage Minature Car	1740426106214	1740426106299	OK	 
+REQUEST		Load Our Story Page	1740426106353	1740426106435	OK	 
+REQUEST		Load Products List Page - Category: Babies Toys	1740426106302	1740426106458	OK	 
+REQUEST		Login User	1740426107315	1740426107377	OK	 
+REQUEST		Login User Redirect 1	1740426107378	1740426107467	OK	 
+REQUEST		Load Products List Page - Category: Babies Toys	1740426107347	1740426107502	OK	 
+REQUEST		View Cart	1740426107470	1740426107550	OK	 
+REQUEST		Load Get In Touch	1740426108198	1740426108284	OK	 
+REQUEST		Load Products Details Page - Product: Vintage Minature Car	1740426108526	1740426108602	OK	 
+REQUEST		Increase Product Quantity in Cart - Product Name: Doctors Play Kit	1740426110098	1740426110181	OK	 
+REQUEST		Increase Product Quantity in Cart - Product Name: Doctors Play Kit Redirect 1	1740426110182	1740426110277	OK	 
+REQUEST		Load Products List Page - Category: Babies Toys	1740426110734	1740426110872	OK	 
+REQUEST		Load Products Details Page - Product: Poker Set	1740426110812	1740426110894	OK	 
+REQUEST		Load Products Details Page - Product: Coloured Building Blocks	1740426110920	1740426111013	OK	 
+REQUEST		Load Products List Page - Category: Babies Toys	1740426110897	1740426111063	OK	 
+REQUEST		Load Products List Page - Category: Babies Toys	1740426111016	1740426111165	OK	 
+REQUEST		Add Product to Cart - Product Name: Vintage Minature Car	1740426111246	1740426111325	OK	 
+REQUEST		Decrease Product Quantity in Cart - Product Name: Doctors Play Kit	1740426111292	1740426111359	OK	 
+REQUEST		Load Home Page	1740426111327	1740426111405	OK	 
+REQUEST		Decrease Product Quantity in Cart - Product Name: Doctors Play Kit Redirect 1	1740426111359	1740426111445	OK	 
+REQUEST		Checkout	1740426112459	1740426112514	OK	 
+REQUEST		Checkout Redirect 1	1740426112515	1740426112584	OK	 
+REQUEST		Load Products Details Page - Product: Fake Donuts	1740426113677	1740426113743	OK	 
+REQUEST		Load Products List Page - Category: Babies Toys	1740426113746	1740426113874	OK	 
+REQUEST		Load Products List Page - Category: Kids Toys	1740426113921	1740426114079	OK	 
+REQUEST		Load Products Details Page - Product: Xbox Controller	1740426115300	1740426115384	OK	 
+REQUEST		Load Home Page	1740426115386	1740426115456	OK	 
+REQUEST		Load Products Details Page - Product: Darts Board	1740426115422	1740426115480	OK	 
+REQUEST		Load Home Page	1740426115454	1740426115522	OK	 
+REQUEST		Load Home Page	1740426115481	1740426115551	OK	 
+REQUEST		Load Products Details Page - Product: Scrabble Set	1740426116355	1740426116442	OK	 
+REQUEST		Load Products Details Page - Product: Wooden Baby Worm	1740426117239	1740426117318	OK	 
+REQUEST		Load Products List Page - Category: Kids Toys	1740426117320	1740426117441	OK	 
+REQUEST		Load Products List Page - Category: All Products	1740426118347	1740426118491	OK	 
+REQUEST		Load Our Story Page	1740426118469	1740426118547	OK	 
+REQUEST		Load Our Story Page	1740426118564	1740426118643	OK	 
+REQUEST		Add Product to Cart - Product Name: Scrabble Set	1740426119288	1740426119363	OK	 
+REQUEST		Load Home Page	1740426119365	1740426119435	OK	 
+REQUEST		Load Get In Touch	1740426120494	1740426120567	OK	 
+REQUEST		Load Get In Touch	1740426120711	1740426120786	OK	 
+REQUEST		Load Products Details Page - Product: PS4 Controller	1740426121053	1740426121173	OK	 
+REQUEST		Load Products Details Page - Product: Poker Set	1740426121053	1740426121180	OK	 
+REQUEST		Load Home Page	1740426121182	1740426121258	OK	 
+REQUEST		Load Products List Page - Category: Grown-ups Toys	1740426121938	1740426122097	OK	 
+REQUEST		Load Our Story Page	1740426122444	1740426122530	OK	 
+REQUEST		Load Products List Page - Category: Babies Toys	1740426122908	1740426123064	OK	 
+REQUEST		Load Products List Page - Category: Kids Toys	1740426123173	1740426123318	OK	 
+REQUEST		Add Product to Cart - Product Name: PS4 Controller	1740426124090	1740426124161	OK	 
+REQUEST		Load Home Page	1740426124163	1740426124224	OK	 
+REQUEST		Load Products Details Page - Product: Darts Board	1740426124525	1740426124592	OK	 
+REQUEST		Load Products List Page - Category: Grown-ups Toys	1740426124593	1740426124739	OK	 
+REQUEST		Load Get In Touch	1740426124802	1740426124874	OK	 
+REQUEST		Load Products Details Page - Product: Poker Set	1740426125004	1740426125074	OK	 
+REQUEST		Load Products List Page - Category: Kids Toys	1740426126202	1740426126330	OK	 
+REQUEST		Load Products List Page - Category: Grown-ups Toys	1740426126772	1740426126904	OK	 
+REQUEST		Load Products Details Page - Product: Alphabet Letters	1740426127272	1740426127353	OK	 
+REQUEST		Load Products List Page - Category: All Products	1740426127356	1740426127487	OK	 
+REQUEST		Load Products Details Page - Product: Coloured Building Blocks	1740426127473	1740426127551	OK	 
+REQUEST		Add Product to Cart - Product Name: Poker Set	1740426127814	1740426127879	OK	 
+REQUEST		Load Home Page	1740426127881	1740426127937	OK	 
+REQUEST		Add Product to Cart - Product Name: Coloured Building Blocks	1740426128855	1740426128928	OK	 
+REQUEST		Load Products Details Page - Product: Darts Board	1740426129581	1740426129654	OK	 
+REQUEST		Load Products List Page - Category: Grown-ups Toys	1740426129656	1740426129771	OK	 
+REQUEST		Load Products Details Page - Product: VR Headset	1740426129934	1740426130007	OK	 
+REQUEST		Load Products List Page - Category: Babies Toys	1740426130010	1740426130153	OK	 
+REQUEST		Load Products List Page - Category: Babies Toys	1740426130580	1740426130704	OK	 
+REQUEST		Load Products Details Page - Product: Furry Toys	1740426131518	1740426131579	OK	 
+REQUEST		Load Products List Page - Category: Kids Toys	1740426131582	1740426131696	OK	 
+REQUEST		Login User	1740426131919	1740426131975	OK	 
+REQUEST		Login User Redirect 1	1740426131975	1740426132064	OK	 
+REQUEST		View Cart	1740426132066	1740426132134	OK	 
+REQUEST		Load Products Details Page - Product: Coloured Building Blocks	1740426133494	1740426133562	OK	 
+REQUEST		Increase Product Quantity in Cart - Product Name: Coloured Building Blocks	1740426133541	1740426133597	OK	 
+REQUEST		Increase Product Quantity in Cart - Product Name: Coloured Building Blocks Redirect 1	1740426133598	1740426133682	OK	 
+REQUEST		Load Products Details Page - Product: Poker Set	1740426133807	1740426133889	OK	 
+REQUEST		Load Home Page	1740426133891	1740426133968	OK	 
+USER	Default Load Test	END	1740426134697
+USER	Default Load Test	END	1740426134815
+USER	Default Load Test	END	1740426134847
+USER	Default Load Test	END	1740426135066
+USER	Default Load Test	END	1740426136987
